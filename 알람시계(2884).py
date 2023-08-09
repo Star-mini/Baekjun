@@ -10,6 +10,6 @@ if a==0:
         print(23,b-45+60)
 else:
     if b>=45:
-        print(a-1,b-45)
+        print(a,b-45)
     else:
         print(a-1,b-45+60)
